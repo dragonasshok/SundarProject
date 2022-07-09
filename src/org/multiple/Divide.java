@@ -10,7 +10,8 @@ public class Divide extends Addition{
 		Addition ad=new Addition();
 		ad.staffMark();
 		dd.managerMark();
-		
+		System.out.println("hai ashok");
+		System.out.println("hai ashwin");
 	}
 
 
