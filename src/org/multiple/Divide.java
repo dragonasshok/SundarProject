@@ -10,9 +10,13 @@ public class Divide extends Addition{
 		Addition ad=new Addition();
 		ad.staffMark();
 		dd.managerMark();
+
 		System.out.println("123456");
 		System.out.println(987654321);
+		System.out.println("hai ashok");
+		System.out.println("hai ashwin");
 		
+
 	}
 
 
