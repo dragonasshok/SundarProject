@@ -16,6 +16,8 @@ public class Divide extends Addition{
 		System.out.println("hai ashok");
 		System.out.println("hai ashwin");
 		
+		System.out.println("ashok");
+		System.out.println("vasu");
 
 	}
 
